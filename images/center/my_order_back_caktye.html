@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>生活一家</title>
+	<link rel="stylesheet" href="../css/center.css">
+	<link rel="stylesheet" href="../css/base.css">
+	<link rel="stylesheet" type="text/css" href="../css/about_me_history.css">
+      <link rel="stylesheet" type="text/css" href="../css/center_main.css">
+</head>
+<body>
+	 <div class="cak_banner">
+	    <div class="cak_banner_nav">
+	 	<ul class="clearfix">
+	 		<li><a href="###"><span>[</span>登录<span>]</span></a></li>
+	 		<li><a href="###"><span>[</span>注册<span>]</span></a></li>
+	 		<li>|<a href="###">我的账号</a>|</li>
+	 		<li class="cak_phone"><a href="###">生活一家APP下载</a></li>
+	 	</ul>
+	 	</div>
+	 </div>
+	  <div class="cak_main">	
+	 <div class="cak_header clearfix">
+	 	   <img src="../images/logo.jpg" alt="">
+	 	  <a href="###" class="cak_city_add">
+	 	      <span>广州</span><img src="../images/gz.jpg">
+              <ul class="cak_city_list clearfix">
+              	<li>深圳</li>
+              	<li>上海</li>
+              	<li>北京</li>
+              	<li>乐昌</li>
+              </ul>
+	 	   </a>
+	 	   <label><input class="cak_box"  placeholder="手机开枪"><input type="submit" value="搜索" class="cak_btn"></label>
+	           	<a href="###" class="cak_customer">一键客服</a>
+	           	<a href="###" class="cak_shop_car">购物车</a>	 	   
+	 </div>
+	 </div>
+	 <div class="cak_menu">
+	 	<ul>
+	 		<li><a href="PersonalCenter_caktye.html">基本资料</a></li>
+			 	<li><a href="grade_caktye.html">升级会员</a></li>
+			 	<li><a href="my_order_complete_caktye.html">我的订单</a></li>
+			 	<li><a href="wallet_caktye.html">我的钱包</a></li>
+			 	<li><a href="Collection_caktye.html">我的收藏</a></li>
+			 	<li><a href="address_caktye.html">收货地址</a></li>
+			 	<li><a href="help_caktye.html">帮助中心</a></li>
+			 	<li><a href="Feedback_caktye.html">意见反馈</a></li>
+	 	</ul>
+	 </div>
+	
+	<div class="cak_content clearfix">
+		<div class="cak_upgrade_shop">
+		 <p class="cak_upgrade_l">当前订单状态：货已送到你手上，请确认收货</p>
+		 <p class="cak_upgrade_r"><a href="###" class="cak_whites">去评价</a><a href="###" class="cak_whites" id="loginBtn">申请退货</a></p>		
+		</div>
+        
+        <div id="popBox">
+		   <div class="login-box">
+		    <ul class="clearfix">
+		    	<li>申请退款</li>
+		    	<li class="cak_return_r"><a href="###" class="cak_return" id="cak_return"></a></li>
+		    </ul>
+		    <dl class="cak_logo_list clearfix">
+		    	<dt><label>退款原因<em>*</em>：</label><select> 
+                <option>请选择退货原因</option> 
+                <option>1.或是坏的</option> 
+                <option>2.货非正品</option> 
+                <option>3.货为二手货</option> 
+                <option>4.没原因，我乐意，咋地</option> 
+                </select>
+                <span class="cak_chosse"><em>*</em>选项必填</span>
+                </dt>
+		    	<dt class="cak_money_gold"><label>退款金额<em>*</em>：</label><input></dt>
+		    	<dt><label>退款说明&nbsp;：</label></dt>
+		    	<dd><textarea class="cak_explain"></textarea></dd>
+		    	<dt><label>上传凭证&nbsp;：</label><a href="###" class="cak_update">选择要上传的图片</a>
+                 <span class="cak_yq">每张图片大小不超过5M，最多3张，支持JPG、PNG、BMP格式</span>
+		    	</dt>
+		    	<dd><a href="###" class="cak_update_btn">提交</a></dd>
+		    </dl>
+		   </div>
+	    </div>
+
+	    <script>
+		var cak_return = document.getElementById("cak_return");
+		var loginBtn = document.getElementById("loginBtn");
+		var popBox = document.getElementById("popBox");
+		loginBtn.onclick = function() {
+			popBox.style.display = "block";
+		}
+		cak_return.onclick = function() {
+			popBox.style.display = "none";
+		}
+	   </script>
+
+		<div class="cak_my_order">
+		    <ul>
+		    	<li>
+		    		<h2>订单信息</h2>
+		    	</li>
+		    </ul>
+			<dl>
+				<dt>
+					<label>收货地址：</label><span>庞少军，86-13751893217，广东省 广州市 天河区 车陂街道 广州市天河区东圃大马路8号时代TIT广场4楼430 ，000000</span>
+				</dt>
+				<dt>
+					<label>订单编号：</label><span>SKYJ12525441</span>
+				</dt>
+				<dt>
+					<label>创建时间：</label><span>2015-10-02   12:20</span>
+				</dt>
+				<dt>
+					<label>付款时间：</label><span>申通物流   5221255142</span>
+				</dt>
+				<dt>
+					<label>物流信息：</label><span>2015-10-02   12:20</span>
+				</dt>
+				<dt>
+					<label>收货时间：</label><span>2015-10-06   12:30</span>
+				</dt>
+				<dd>
+				<label>备注：</label><input>
+				</dt>
+			</dl>
+		</div>
+		<div class="cak_my_order_list">
+			<dl class="cak_upgrade_list_title"><span>商品信息</span></dl>
+			<dl class=" cak_upgrade_list_menu">
+				<dt>宝贝</dt>
+				<dd>规格</dd>
+				<dd>数量</dd>
+				<dd>单价(元)</dd>
+				<dd>订单状态</dd>
+				<dd>商品总价</dd>
+			</dl>
+			<dl class="cak_upgrade_list_content clearfix">
+				<dt>
+					<img src="../images/foot.jpg">
+					<p>
+					      百草味 夏威夷果200g*3袋奶油
+					      味  夏威夷果
+				    </p>
+				</dt>
+				<dd>规格：600g</dd>
+				<dd>x2</dd>
+				<dd><p>￥158</p>在线支付</dd>
+				<dd class="cak_upgrade_sp">已完成</dd>
+				<dd><p>￥316</p>(运费：￥10)</dd>
+			</dl>
+			<dl class="cak_upgrade_list_footer">
+				<dt>
+					<span>订单总价：<em>￥158</em>元</span>
+				</dt>
+			</dl>
+		</div>
+	</div>
+	 
+	 <div class="cak_footer ">
+	 	<ul class="clearfix">
+	 		<li><a href="../about_us/company _caktye.html">首页</a><span>|</span></li>
+	 		<li><a href="###">精彩生活</a><span>|</span></li>
+	 		<li><a href="###">生活食品</a><span>|</span></li>
+	 		<li><a href="###">生活用品</a><span>|</span></li>
+	 		<li><a href="###">生活家居</a><span>|</span></li>
+	 		<li><a href="PersonalCenter_caktye.html">会员杂锦</a><span>|</span></li>
+	 		<li><a href="###">一键客服</a><span>|</span></li>
+	 		<li><a href="###">关于我们</a></li>
+	 	</ul>
+	 	<p>Copyright© 生活一家 2007-2015，All Rights Reserved</p>
+	 </div>
+</body>
+</html>

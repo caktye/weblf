@@ -1,0 +1,293 @@
+@charset "utf-8";
+body{
+	background-color: #f5f5f5;
+}
+.cak_banner{
+	height: 30px;
+	background-color: #f5f5f5;
+	line-height: 30px;
+	width: 1200px;
+	margin: 0 auto;
+
+}
+.cak_banner ul li{
+	float: left;
+
+}
+.cak_banner ul{
+	float: right;
+}
+.cak_banner ul li a{
+	padding-left: 7px;
+	padding-right: 7px;
+	color: #b5b5b5;
+}
+.cak_banner ul li a:hover{
+	color: #ffa130;
+}
+.cak_banner ul li a span{
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.cak_phone{
+	margin-left: 12px;
+	padding-left: 10px;
+	background: url("../images/phone.jpg") 0 center no-repeat;
+}
+	.cak_main{
+		background-color: white;
+		width: 100%;	
+	}
+.cak_header {
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;  
+	line-height: 100px; 
+}
+.cak_header img{
+	vertical-align: middle;
+}
+.cak_city_add span{
+ margin-right: 9px;
+}
+.cak_box{
+	width: 389px;
+	height: 32px;
+	border: 2px solid #ffa130;
+	border-right: none;
+	margin-left: 32px;
+	padding-left: 16px;
+	line-height: 32px;
+
+
+}
+.cak_btn{
+	height: 36px;
+	width: 69px;
+	color: #fff;
+	background-color: #ffa130;
+	border: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+	}
+.cak_header label{
+	vertical-align: middle;
+}
+.cak_header a{
+	color: #a5a5a5;
+}
+.cak_city_add{
+  color: #b5b5b5;
+  margin-left: 47px;
+  margin-right: 10px;
+  position: relative;
+}
+.cak_city_list {
+  display: none;
+  /*border: 1px solid red;*/
+  position: absolute;
+  top: 15px;
+  left: -14px;
+}
+
+.cak_city_add:hover .cak_city_list{
+   display: block;
+}
+.cak_city_list li:hover {
+  color: #fff;
+ background-color: #ffa130;
+}
+
+.cak_city_list li{
+ /*border: 1px solid red;*/
+ height: 20px;
+ width: 48px;
+ line-height: 20px;
+ text-align: center;
+}
+
+
+	.cak_customer{
+		margin-left: 88px;
+		 border: 2px solid #e0e0e0;
+	     padding: 9px 27px 9px 27px;
+	}
+	.cak_shop_car{
+		margin-left: 28px;
+		 border: 2px solid #e0e0e0;
+	     padding: 9px 20px 9px 50px;
+		background: url("../images/shop.jpg") 20px center no-repeat;
+	}
+	.cak_menu{
+		height: 48px;
+		background-color: #ffa130;
+		line-height: 48px;
+
+	}
+
+	.cak_menu ul{
+		width: 1200px;
+		margin: 0 auto;
+	}
+	.cak_menu li{
+		float: left;
+		display: inline-block;
+		width: 171px;
+		text-align: center;
+		/*border: 1px solid red;*/
+		/*box-sizing:border-box;*/
+	}
+	.cak_menu ul li a{
+		color: #FFF;
+	}
+	.cak_menu li:hover{
+		background-color: #f88f1f;
+	}
+	.cak_content{
+		margin: 0 auto;
+		width: 1200px;
+		/*border: 1px solid red;*/
+
+
+	}
+	.cak_content-left{
+		width: 200px;
+		/*height: 500px;*/
+		/*border: 1px solid red;*/
+		float: left;
+
+	}
+	.cak_content-right{
+		width: 998px;
+		float: left;
+		/*height: 1000px;*/
+		background-color: #fff;
+		margin-top: 28px;
+		border: 1px solid #e6e6e6;
+		padding-bottom: 60px;
+
+
+	}
+	.cak_official_list{
+		margin-top: 28px;
+	}
+
+	.cak_official_list li{
+		position: relative;
+		width: 216px;
+		height: 270px;
+		float: left;
+		margin-left: 25px;
+		/*margin-left: 28px;
+		margin-right: 28px;*/
+        border: 1px solid #e6e6e6;
+        background-color: #fff;
+	}
+	.cak_exam{
+		margin-left: 16px;
+		margin-top: 16px;
+	}
+    .cak_exam span{
+    	color: #1a1a1a;
+    }
+    .cak_exam dt{
+    	margin-top: 10px;
+    	color: #7f7f7f;
+    }
+    .cak_read{
+    	margin-top:24px;
+    }
+    .cak_read a {
+    	color: red;
+    }
+    .cak_date{
+    	position: absolute;
+    	top: 0px;
+    	left: 0px;
+    	width: 56px;
+    	height: 56px;
+    	background-color: #dc001e;
+    	text-align: center;
+    	color: #fff;
+    }
+    .cak_date span{
+    	font-size: 22px;
+    	letter-spacing: 3px;
+    	font-weight: bold;
+    }
+    .cak_date p{
+    	font-size: 12px;
+    }
+    .cak_content-left ul{
+    	width: 83px;
+    	height: 334px;
+        border-right: 3px solid #c0b7b2;
+        margin: 200px auto 0px;
+
+    }
+    .cak_content-left ul li{
+    
+    	width: 80px;
+    	height: 63px;
+    	
+    	
+    }
+    .cak_content-left ul li a{
+    	display: inline-block;
+    	width: 80px;
+    	color: #a3958f;
+    	padding-left: 11px;
+    	background:url("../images/nav.png") right 2px no-repeat;
+    }
+    .cak_content-left ul li.active a:hover{
+       color: #eb6623;
+      background:url("../images/nav-back.png") right 2px no-repeat;
+    }
+    .cak_content-right-footer{
+    	/*border: 1px solid red;*/
+        text-align: center;
+        margin-top: 100px;
+    }
+     .cak_content-right-footer a{
+    	
+    	display: inline-block;
+    	width: 28px;
+    	height: 28px;
+    	text-align: center;
+    	line-height: 28px;
+    	border: 1px solid #cccccc;
+    	margin:  auto 14px;
+    	color: black;
+    	
+    }
+    .cak_content-right-footer a:hover{
+    	color: #fff;
+    	background-color: #fb7803;
+    }
+    .cak_footer{
+    	height: 120px;
+    	background-color: #f9f0e4;
+    	width: 100%;
+    	margin-top: 50px;
+    	text-align: center;
+
+    }
+    .cak_footer ul {
+    	/*border: 1px solid red;*/
+    	width: 621px;
+    	margin:  0px auto 14px;
+    	padding-top: 41px;
+
+    }
+   .cak_footer ul li{
+   	     float: left;   	
+        text-align: center;
+       }
+ .cak_footer ul li a{
+ 	width: 75px;display: inline-block;
+ 	color: #4d4d4d;
+ }
+ .cak_footer ul li a:hover{
+ 	color: #ffa130;
+ }

@@ -1,0 +1,43 @@
+@charset "utf-8";
+.cak_company_title{
+	text-align: center;
+	width: 830px;
+	margin: 0 auto;
+	height: 73px;
+	border-bottom: 1px solid #e6e6e6;
+	padding-top: 30px;
+}
+.cak_company_title h2{
+	font-size: 16px;
+	color: #aa988e;
+}
+.cak_company_title h3{
+	font-size: 16px;
+	color: #f18555;
+	margin-top: 10px;
+}
+.cak_company_content{
+	margin: 15px auto 0px;
+	width: 674px;
+	height: 556px;
+	/*border: 1px solid red;*/
+}
+.cak_company_content p{
+	text-indent: 4em;
+	font-size: 14px;
+	color: #333333;
+	line-height: 30px;
+}
+.cak_company_main_word{
+	width: 354px;
+	float: left;
+	line-height: 30px;
+}
+.cak_company_main_ph {
+	margin-left: 28px;
+	width: 290px;
+	float: left;
+}
+.cak_content-right{
+	height: 780px;
+}

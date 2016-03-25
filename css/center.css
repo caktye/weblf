@@ -1,0 +1,434 @@
+@charset "utf-8";
+
+
+.cak_banner{
+	background-color: #f5f5f5;	
+}
+.cak_banner_nav ul li{
+	float: left;
+
+}
+.cak_banner_nav{
+	width: 1200px;
+	height: 30px;
+	line-height: 30px;
+	margin: 0 auto;
+	width: 1200px;
+}
+.cak_banner_nav ul{
+	float: right;
+}
+.cak_banner_nav ul li a{
+	padding-left: 7px;
+	padding-right: 7px;
+	color: #b5b5b5;
+}
+.cak_banner_nav ul li a:hover{
+	color: #ffa130;
+}
+.cak_banner_nav ul li a span{
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.cak_phone{
+	margin-left: 12px;
+	padding-left: 10px;
+	background: url("../images/phone.jpg") 0 center no-repeat;
+}
+	.cak_main{
+		background-color: white;
+		width: 100%;	
+	}
+.cak_header {
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;  
+	line-height: 100px; 
+
+}
+.cak_header img{
+	vertical-align: middle;
+}
+
+.cak_city_add span{
+ margin-right: 9px;
+}
+.cak_box{
+	width: 389px;
+	height: 32px;
+	border: 2px solid #ffa130;
+	border-right: none;
+	margin-left: 32px;
+	padding-left: 16px;
+	line-height: 32px;
+
+
+}
+.cak_btn{
+	height: 36px;
+	width: 69px;
+	color: #fff;
+	background-color: #ffa130;
+	border: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+	}
+.cak_header label{
+	vertical-align: middle;
+}
+.cak_header a{
+	color: #a5a5a5;
+}
+.cak_city_add{
+  color: #b5b5b5;
+  margin-left: 47px;
+  margin-right: 10px;
+  position: relative;
+}
+.cak_city_list {
+  display: none;
+  /*border: 1px solid red;*/
+  position: absolute;
+  top: 14px;
+  left: -14px;
+}
+
+.cak_city_add:hover .cak_city_list{
+   display: block;
+}
+.cak_city_list li:hover {
+  color: #fff;
+ background-color: #ffa130;
+}
+
+.cak_city_list li{
+ /*border: 1px solid red;*/
+ height: 20px;
+ width: 48px;
+ line-height: 20px;
+ text-align: center;
+}
+
+	.cak_customer{
+		margin-left: 88px;
+		 border: 2px solid #e0e0e0;
+	     padding: 9px 27px 9px 27px;
+	}
+	.cak_shop_car{
+		margin-left: 28px;
+		 border: 2px solid #e0e0e0;
+	     padding: 9px 20px 9px 50px;
+		background: url("../images/shop.jpg") 20px center no-repeat;
+	}
+	.cak_menu{
+		height: 48px;
+		background-color: #ffa130;
+		line-height: 48px;
+
+	}
+
+	.cak_menu ul{
+		width: 1200px;
+		margin: 0 auto;
+	}
+	.cak_menu li{
+		float: left;
+		display: inline-block;
+		width: 171px;
+		text-align: center;
+	}
+	.cak_menu ul li a{
+		color: #FFF;
+	}
+	.cak_menu li:hover{
+		background-color: #f88f1f;
+	}
+	.cak_content{
+		margin: 30px auto 0px;
+		width: 1200px;
+
+	}
+	.cak_content-left{
+		width: 170px;
+		float: left;
+		border: 1px solid #e6e6e6;
+
+	}
+	.cak_content-right{
+		width: 998px;
+		float: left;
+		background-color: #fff;
+		padding-bottom: 60px;
+		margin-left: 24px;
+		/*border:1px solid red;*/
+
+
+	}
+
+  
+    .cak_footer{
+    	height: 120px;
+    	background-color: #f9f0e4;
+    	width: 100%;
+    	margin-top: 50px;
+    	text-align: center;
+
+    }
+    .cak_footer ul {
+    	width: 630px;
+    	margin:  0px auto 14px;
+    	padding-top: 41px;
+    	font-size: 14px;
+    }
+   .cak_footer ul li{
+   	     float: left;   	
+        text-align: center;
+    }
+   .cak_footer ul li a{
+ 	width: 75px;display: inline-block;
+ 	color: #4d4d4d;
+    }
+ .cak_footer ul li a:hover{
+ 	color: #ffa130;
+    }
+ .cak_content-left ul{
+   border-top: 4px solid #ffa130;
+   text-align: center;
+ }
+ .cak_content-left ul li a{
+ 	color: #656565;
+ 	display: block;
+ }
+ .cak_content-left ul li a:hover{
+ 	background-color: #f88f1f;
+  color: #fff;
+ }
+  .cak_content-left ul li{
+  	height: 50px;
+  	line-height: 50px;
+  	/*border: 1px solid red;*/
+  }
+  .cak_content_right_bannr{
+  	width: 1000px;
+  	/*border: 1px solid red;*/
+  }
+  .cak_content-right_top_lf{
+  	width: 678px;
+  	border: 1px solid #e6e6e6;
+  	height: 155px;
+  	float: left;
+  	
+  }
+  .cak_content-right_top_rg{
+  	width: 290px;
+  	border: 1px solid #e6e6e6;
+  	height: 155px;
+  	float: left;
+  	margin-left: 24px;
+  	background-color: #faf8f4;
+  }
+  .cak_diamonds img{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+
+  }
+  .cak_content-right_top_lf_phto{
+  	width: 90px;
+  	height: 90px;
+  	position: relative;
+  	float: left;
+  	margin-top: 30px;
+  	margin-left: 28px;
+  }
+  .cak_avatar{
+  	display: block;
+  	width: 90px;
+  	height: 90px;
+  }
+ 
+  .cak_content-right_top_lf dl{
+  	float: left;
+  	vertical-align: middle;
+  	margin-top: 46px;
+  	margin-left: 26px;
+  }
+  .cak_content-right_top_lf dt{
+   	font-size: 18px;
+   	color: #1a1a1a;
+   	font-weight: bold;	
+   }
+   .cak_content-right_top_lf dt a{
+   	 color: #ffffff;
+   	 font-size: 12px;
+      background: url("../images/huiyuan.png") 0 0 no-repeat;
+   	 padding: 2px 11px 3px 8px;
+   }
+   .cak_content-right_top_lf dd{
+   	margin-top: 10px;
+   	color: #1a1a1a;
+   	font-size: 14px;
+   }
+   .cak_content-right_top_lf dd span{
+   	color: #999999;
+   }
+  
+   .cak_content-right_top_rg img{
+       float: left;
+       margin-top: 44px;
+       margin-left: 38px;
+   }
+   .cak_content-right_top_rg dl{
+   	float: left;
+   	margin-top: 57px;
+   	margin-left: 30px;
+   }
+    .cak_content-right_top_rg dl dt{
+         color: #999999;
+     }
+     .cak_content-right_top_rg dl dd{
+         color: #0d0d0d;
+         margin-top: 10px;
+         font-weight: bold;
+     }
+
+     .cak_content-right_content_list {
+     	/*height: 22px;*/
+     	border-left: 4px solid #f66061;
+     	width: 996px;
+     	margin: 22px auto 22px;
+     }
+     .cak_content-right_content_list span{
+       font-size: 16px;
+       color: #1a1a1a;
+       font-weight: bold;
+        float: left;
+        margin-left: 12px;
+     }
+     .cak_content-right_content_list a{
+        color: #999999;
+        float: right;
+        margin-right: 22px;
+     }
+      .cak_content-right_content_list a:hover{
+        color: #ffa130;
+        text-decoration: underline;
+     }
+     .cak_content-right_order dl{
+     	border: 1px solid #e6e6e6;
+     	padding-bottom: 7px;
+     }
+     .cak_content-right_order dl dt{
+     	height: 42px;
+     	background-color: #f5f5f5;
+     	line-height: 42px;
+     	border-bottom:1px solid #e6e6e6;
+     }
+      .cak_content-right_order dl dt span{
+      	margin-left: 18px;
+      	color: #666666;
+      	font-size: 14px;
+      }
+      .cak_content-right_order dl dd{
+      	width: 159px;
+      	/*border: 1px solid red;*/
+      	float: left;
+      	height: 90px;
+      	text-align: center;
+       	padding-top: 60px;
+       	margin: 7px 3px 0px 3px;
+      }
+      
+       .cak_content-right_order dl dd img{
+       	 vertical-align: middle;
+       }
+       .cak_content-right_order dl .icon_1{
+       	background: url("../images/foot.jpg") 20px 20px no-repeat;
+       }
+       .cak_content-right_order dl .icon_2{
+       text-align: left;
+       }
+       .money{
+        	 color: #ed601b;
+        }
+        .payment{
+        	color: #999999;
+       }
+        .cak_content-right_order dl .icon_6 a{
+        	color: #666666;
+        	display: block;
+        	width: 100px;
+        	height: 23px;
+        	margin: 0 auto;
+        	padding-top: 9px;
+        	background-color: #f5f5f5;
+        	border: 1px solid #e6e6e6;   	
+        }
+         .cak_content-right_order dl .icon_6{
+         }
+         .icon_5{
+         	border-right: 1px solid #e6e6e6;
+         	border-left: 1px solid #e6e6e6;
+         	color: #999999;
+         }
+         .icon_3{
+
+         	color: #999999;
+         }
+          .cak_collection ul li{
+          	 width: 248px;
+             height: 340px;
+             float: left;
+            
+          }
+         .cak_collection_list{            
+             border: 1px solid #e6e6e6;             
+             border-right: none;      
+
+         }
+       .cak_collection_list2{
+         	  border: 1px solid #e6e6e6;   
+         }
+       .cak_collection_name{
+       	color: #4c4c4c;
+       }
+       .cak_collection_special{
+       	width: 180px;
+       	margin: 0 auto;
+       }
+       .cak_collection_special span{
+           font-size: 18px;
+           color: #ed601b;
+           margin-left: 10px;
+       }
+       .cak_collection_special em{
+           font-size: 14px;
+           color: #999999;
+           margin-left: 45px;
+           text-decoration: line-through;
+       }
+       .cak_collection_name{
+       	text-align: center;
+       }
+       .cak_collection ul li img{
+       text-align: center;
+       display: block;
+       margin: 0 auto;
+       height:230px;
+       }
+       .cak_collection_btn a{
+       	   display: block;
+       	   border: 1px solid #e6e6e6;
+       	   width: 78px;
+       	   height: 28px;
+       	   margin: 0 auto;
+       	   text-align: center;
+       	   color: #4c4c4c;
+       	   line-height: 28px;
+       	   margin-top: 12px;
+       	   padding-left: 28px;
+       	   background: url("../images/shop.jpg") 5px center no-repeat;
+       }
+
+  

@@ -1,0 +1,305 @@
+@charset "utf-8";
+.cak_company_title{
+	text-align: center;
+	width: 830px;
+	margin: 0 auto;
+	height: 73px;
+	border-bottom: 1px solid #e6e6e6;
+	padding-top: 30px;
+}
+
+.cak_company_title h2{
+	font-size: 16px;
+	color: #aa988e;
+}
+.cak_company_title h3{
+	font-size: 16px;
+	color: #f18555;
+	margin-top: 10px;
+}
+.cak_history_content{
+	width: 710px;
+	margin: 0 auto;
+}
+.cak_history_left{
+	width: 350px;
+	border-right: 3px solid #c5bcb7;
+	 /*height: 800px;*/
+	 float: left;
+	 margin-top: 24px;
+}
+.cak_history_right{
+	width: 350px;
+    /*height: 800px;*/
+    float: left;
+	margin-top: 24px;
+}
+.cak_history_left dd{
+	width: 350px;
+	padding-top: 28px;
+	padding-bottom: 28px;
+	padding-left: 8px;
+	height: 163px;
+	background: url("../images/nav.png") right center no-repeat;
+}
+.cak_history_left dt{
+	width: 350px;
+	padding-top: 82px;
+	padding-left: 8px;
+	height: 164px;
+	background: url("../images/nav.png") right center no-repeat;
+}
+.cak_history_left dt h4{
+   color: #ffa130;
+   font-size: 30px;
+   margin-left: 223px;
+}
+.cak_history_left dt span{
+	color: #a8a8a8;
+	 margin-left: 194px;
+}
+.cak_history_right dd{
+	width: 300px;
+	padding-top: 28px;
+	padding-bottom: 28px;
+	height: 163px;
+	padding-left: 50px;
+
+}
+.cak_history_right dt{
+	width: 300px;
+	padding-top: 82px;
+  	height: 164px;
+	padding-left: 50px;
+}
+.cak_history_right dt h4{
+   color: #ffa130;
+   font-size: 30px;
+}
+.cak_history_right dt span{
+	color: #a8a8a8;
+}
+
+
+
+
+/*///////////////////////咨询/////////////////////////////////*/
+
+
+.cak_consultation_list{
+	width: 830px;
+	border-bottom: 1px solid #e6e6e6;
+	margin: 0 auto;
+	padding-top: 46px;
+	padding-bottom: 28px;
+	color: #666666;
+
+}
+.cak_consultation_list img{
+	float: left;
+}
+.cak_consultation_list_main span{
+	font-size: 14px;
+	color: #1a1a1a;
+}
+.cak_consultation_list_main em{
+	color: #fb8329;
+}
+.cak_consultation_list_main p{
+	font-size: 14px;
+	color: #1a1a1a;
+	margin-top: 16px;
+	line-height: 24px;
+	color: #666666;
+}
+.cak_consultation_list_main{
+	width: 340px;
+	float: left;
+	/*border: 1px solid red;*/
+	padding-top: 10px;
+	margin-left: 20px;
+}
+.cak_consultation_list_data{
+	float: right;
+	margin-top: 10px;
+}
+
+
+
+
+/*///////////////////////咨询/////////////////////////////////*/
+
+.cak_new_content-left{
+   border: 1px solid #e6e6e6;
+   width: 890px;
+   float: left;
+   background-color: #fff;
+   margin-top: 28px;
+}
+.cak_new_content-right{
+width: 258px;
+float: left;
+border: 1px solid #d9d9d9;
+margin-left: 20px;
+padding-bottom: 120px;
+background-color: #fff;
+margin-top: 28px;
+}
+.cak_new_title h2{
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	margin-top: 35px;
+	margin-bottom: 25px;
+}
+.cak_new_title{
+	border-bottom: 1px solid #e6e6e6;
+	margin-left: 26px;
+	margin-right: 26px;
+
+}
+.cak_new_contenr{
+	width: 780px;
+	margin: 20px auto 0px;
+	
+}
+.cak_new_contenr-title-left{
+	color: #808080;
+	float: left;
+}
+.cak_new_contenr-title-right{
+	float: right;
+	color: #808080;
+}
+.cak_new_contenr-title{
+	height: 20px;
+	line-height: 20px;
+}
+.cak_new_contenr p{
+  font-size: 14px;
+  text-indent: 2em;
+  line-height: 25px;
+  margin-top: 20px;
+}
+.cak_new_contenr img{
+	margin-top: 30px;
+}
+.cak_new_listdown{
+	margin-bottom: 20px;
+}
+.cak_new_content-right ul li img{
+	float: left;
+}
+.cak_new_content-right ul li{
+	height: 100px;
+	width: 230px;
+	display: inline-block;
+	/*border: 1px solid red;*/
+	padding-left: 14px;
+	margin-top: 22px;
+}
+.cak_new_content-right-list {
+	float: left;
+	width: 120px;
+	/*border: 1px solid red;*/
+	line-height: 24px;
+	margin-left: 10px;
+}
+.cak_new_content-right-list span{
+	font-size: 14px;
+	color: #333333;
+}
+.cak_new_content-right-list p{
+	font-size: 12px;
+	color: #808080;
+}
+.cak_new_content-right-title{
+  text-align: center;
+  padding-top: 22px;
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 22px;
+  font-size: 16px;
+ 
+
+}
+.cak_new_content-right-title a{
+	 color: #666666;
+}
+
+/*/////////////////////员工风采/////////////////////////////*/
+.cak_staff_content{
+	margin: 0 auto;
+	width: 680px;
+	margin-top: 40px;
+	font-size: 14px;
+}
+.cak_staff_content_left{
+   width: 300px;
+   float: left;
+}
+.cak_staff_content_right{
+	width: 300px;
+   float: right;
+
+}
+.cak_staff_content_left li{
+  display: block;
+  width: 300px;
+  height: 250px;
+   color: #666666;
+   margin-top: 10px;
+}
+.cak_staff_content_right li img{
+	margin-top: 22px;
+}
+.cak_staff_content_right li{
+  display: block;
+  width: 300px;
+  height: 250px;
+  color: #666666;
+  margin-top: 10px;
+}
+.cak_staff_content_right ul li h4,.cak_staff_content_left ul li h4{
+	font-size: 16px;
+	font-weight: bold;
+	color: #333333;
+}
+.cak_staff_content_right ul li p,.cak_staff_content_left ul li p{
+	line-height: 24px;
+	margin-top: 24px;
+}
+.cak_staff_content ul li h5 {
+	font-size: 14px;
+
+}
+.cak_staff_content ul li h5 span{
+    border-bottom: 2px solid #eb6623;
+    padding-bottom: 6px;
+
+}
+/*/////////////////////客服热线//////////////////////////////////*/
+.cak_hotline_content{
+	text-align: center;
+	padding-bottom: 310px;
+}
+.cak_hotline_content img{
+	/*display: block;*/
+	margin-top: 110px;
+}
+.cak_hotline_content h2{
+	margin-top: 24px;
+	color: #ffa130;
+	font-size: 30px;
+}
+.cak_hotline_work{
+	font-size: 16px;
+	color: #808080;
+	margin-top: 14px;
+}
+.cak_hotline_tel{
+	margin-top: 36px;
+	font-size: 24px;
+	color: #ffa130;
+    font-weight:normal;
+
+}

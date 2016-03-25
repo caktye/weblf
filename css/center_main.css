@@ -1,0 +1,1468 @@
+@charset "utf-8";
+
+.cak_document_content_title{
+	height: 46px;
+	border: 1px solid #e5e5e5;
+	border-bottom: none;
+	line-height: 46px;
+}
+
+.cak_document_content_title span{
+	display: block;
+	color: #4c4c4c;
+	font-size: 18px;
+	width: 98px;
+	border-right: 1px solid #e5e5e5;
+}
+.cak_document_content_main dl dt label{
+
+	width: 70px;
+	display: block;
+	float: left;
+	height: 45px;
+	line-height: 45px;
+	font-size: 14px;
+	color: #999999;
+	margin-left: 18px;
+
+}
+.cak_document_content_main{
+	padding-bottom: 110px;
+	border: 1px solid #e6e6e6;
+	border-bottom: none;
+}
+.cak_document_content_main dl dt input{
+	width: 263px;
+	height: 43px;
+	margin-left: 14px;
+	line-height: 43px;
+	padding-left: 10px;
+}
+.cak_document_list1{
+	margin-top: 40px;
+}
+.cak_document_list1 img{
+	margin-left: 18px;
+}
+.cak_document_list2{
+	margin-top: 50px;
+}
+.cak_document_list2 dd{
+	margin-left: 105px;
+	margin-top: 10px;
+	color: #999999;
+}
+.cak_document_list3{
+	margin-top: 36px;
+
+}
+.cak_document_list3 dd a{
+	display: block;
+	width: 80px;
+	height: 35px;
+	background-color: #f29525;
+	text-align: center;
+	line-height: 35px;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	border-radius: 4px;
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.cak_document_content_ft ul li{
+  height: 60px;
+  line-height: 60px;
+  margin-top: 15px;
+
+}
+.cak_document_content_ft ul li label{
+	display: block;
+	width: 98px;
+	float: left;
+	margin-left: 20px;
+	color: #4c4c4c;
+	font-size: 14px;
+}
+.cak_document_content_ft ul li span{
+	color: #737373;
+	width: 366px;
+	display: block;
+	float: left;
+	font-size: 12px;
+}
+.cak_document_content_ft ul li a{
+	display: block;
+	width: 80px;
+	height: 35px;
+	float: left;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+	border-radius: 4px;
+	background-color: #26c08a;
+	margin-top: 12px;
+}
+.cak_document_content_ft{
+	border: 1px solid #e6e6e6;
+	padding-bottom: 40px;
+}
+
+
+/*//////////////////////修改密码//////////////////////////////*/
+.cak_content-right h2 ,.cak_title_h h2{
+  width: 98px;
+  height: 46px;
+  border: 1px solid #e6e6e6;
+  line-height: 46px;
+  text-align: center;
+  color: #4c4c4c;
+  font-size: 18px;
+  border-bottom: none;
+}
+.cak_change_password{
+	border: 1px solid #e6e6e6;
+	border-left: none;
+	border-right: none;
+	padding-top: 20px;
+	/*height: 335px;*/
+	padding-bottom: 75px;
+}
+.cak_change_password label{
+	display: inline-block;
+	width: 60px;
+	height: 32px;
+	line-height: 32px;
+	/*border:1px solid red;*/
+	text-align: right;
+	
+}
+.cak_change_password  dt{
+	margin-top: 13px;
+	color: #4c4c4c;
+	/*height: 40px;*/
+}
+.cak_change_password dt span{
+ margin-left: 70px;
+ color: #808080;
+}
+.cak_change_password dt input{
+	
+	width: 278px;
+	height: 32px;
+	padding-left: 10px;
+	margin-left: 10px;
+	border: 1px solid #e6e6e6;
+    vertical-align: middle;
+}
+.cak_password_save{
+	color: #ffffff;
+	display: block;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 55px;
+	background: url("../images/save.jpg") 0 0 no-repeat;
+
+}
+
+/*//////////////////////我能供应/////////////////////////////*/
+
+.cak_supplise{
+	border: 1px solid #e6e6e6;
+	border-left: none;
+	border-right: none;
+	padding-top: 20px;
+	/*height: 335px;*/
+	padding-bottom: 75px;
+}
+.cak_supplise label{
+	display: inline-block;
+	width: 60px;
+	height: 32px;
+	line-height: 32px;
+	/*border:1px solid red;*/
+	text-align: right;
+	
+}
+.cak_supplise  dt{
+	margin-top: 13px;
+	color: #4c4c4c;
+	/*height: 40px;*/
+}
+.cak_supplise dt span{
+ margin-left: 70px;
+ color: #808080;
+}
+.cak_supplise dt input{
+	
+	width: 278px;
+	height: 32px;
+	padding-left: 10px;
+	margin-left: 10px;
+	border: 1px solid #e6e6e6;
+    vertical-align: middle;
+}
+.cak_supplise dd{
+	margin-top: 24px;
+	display: block;
+	color: #4c4c4c;
+}
+.cak_supplise span{
+	
+	color: #808080;
+}
+.text{
+	width: 488px;
+	height: 140px;
+	padding-top: 16px;
+	padding-left: 16px;
+	border: 1px solid #e6e6e6;
+	overflow-y:visible 
+
+}
+.upload{
+	width: 88px;
+	height: 88px;
+	background-color: #ffffff;
+	border: 1px solid #dbdbdb;
+}
+.cak_supplise_save{
+	display: block;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	color: #ffffff;
+	font-weight: bold;
+	margin-top: 49px;
+	background: url("../images/save.jpg") 0 0 no-repeat;
+}
+
+
+/*///////////////////////修改钱包密码///////////////////////////////////////*/
+.cak_change_money_password{
+	border: 1px solid #e6e6e6;
+	border-left: none;
+	border-right: none;
+	padding-top: 20px;
+	/*height: 335px;*/
+	padding-bottom: 49px;
+}
+.cak_change_money_password label{
+	display: inline-block;
+	width: 60px;
+	height: 32px;
+	line-height: 32px;
+	/*border:1px solid red;*/
+	text-align: right;
+	
+}
+.cak_change_money_password  dt{
+	margin-top: 13px;
+	color: #4c4c4c;
+	/*height: 40px;*/
+}
+.cak_change_money_password dt span{
+ margin-left: 70px;
+ color: #808080;
+}
+.cak_change_money_password dt input{
+	
+	width: 278px;
+	height: 32px;
+	padding-left: 10px;
+	margin-left: 10px;
+	border: 1px solid #e6e6e6;
+    vertical-align: middle;
+}
+.cak_change_money_password dd{
+	margin-top: 14px;
+	display: block;
+	color: #4c4c4c;
+}
+.cak_change_money_password span{
+	
+	color: #808080;
+}
+
+.cak_content-right h3{
+  width: 140px;
+  height: 46px;
+  border: 1px solid #e6e6e6;
+  line-height: 46px;
+  text-align: center;
+  color: #4c4c4c;
+  font-size: 18px;
+  border-bottom: none;
+}
+.cak_yanzhengma{
+	width: 170px;
+	height: 32px;
+	margin-left: 10px;
+	padding-left: 10px;
+	border: 1px solid #e6e6e6;
+	border-right: none;
+	vertical-align: middle;
+
+}
+.cak_yanzhengma_btn{
+	vertical-align: middle;
+    display: inline-block;
+	width: 110px;
+	height: 34px;
+	padding-left: 14px;
+	padding-right: 14px;
+	border: 1px solid #e6e6e6;
+	font-size: 14px;
+	background-color: #26c08a;
+}
+.cak_money_save{
+    color: #ffffff;
+	display: block;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 32px;
+	background: url("../images/save.jpg") 0 0 no-repeat;
+}
+
+
+/*///////////////////会员等级////////////////////////////////*/
+.cak_grade_content{
+	border-top: 1px solid #e6e6e6;
+	/*height: 50px;*/
+	padding-top: 38px;
+	padding-left: 30px;
+}
+.cak_grade_content p{
+	line-height: 30px;
+	color: #737373;
+}
+.cak_recharge{
+	display: block;
+	background: url("../images/recharge.jpg") 0 0 no-repeat;
+	width: 90px;
+	height: 35px;
+	text-align: center;
+	font-size: 14px;
+	color: #ffffff;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.cak_grade_footer{
+	margin-top: 110px;
+	margin-bottom: 375px;
+}
+
+.cak_grade_footer_list_l{
+	margin-top: 40px;
+	float: left;
+	margin-left: 86px;
+}
+.cak_grade_footer_list_l dt{
+	line-height: 38px;
+	color: #333333;
+	font-size: 14px;
+
+}
+.cak_grade_footer_list_r{
+	margin-top: 40px;
+	float: left;
+	margin-left: 212px;
+}
+.cak_grade_footer_list_r dt{
+	line-height: 38px;
+	color: #333333;
+	font-size: 14px;
+
+}
+.cak_grade_list {
+	margin-top: 10px;
+
+}
+.cak_grade_list dt {
+ float: left;
+ width: 80px;
+ height: 30px;
+ line-height: 30px;
+  text-align: center;
+   color: #808080;
+ font-size: 18px;
+}
+.cak_grade_list dd{
+ float: left;
+ width: 200px;
+ height: 30px;
+ text-align: center;
+
+}
+.cak_grade_list_l{
+	background: url("../images/lf.jpg") 0 center no-repeat;
+}
+.cak_grade_list_r{
+	background: url("../images/lr.jpg") 0 center no-repeat;
+}
+.cak_grade_list_m{
+	background: url("../images/lf_1.jpg") 0 center no-repeat;
+}
+
+/*///////////////充值成功/////////////////////////////////*/
+.cak_recharge_success_content{
+	width: 1200px;
+	height: 448px;
+	border: 1px solid #e6e6e6;
+	margin-top: 55px;
+
+}
+.cak_recharge_success_main{
+	margin:66px auto;
+	width: 325px;
+	height: 150px;
+	text-align: center;
+}
+.suc-1 img{
+  vertical-align: middle;
+}
+.suc-1 {
+   color: #1a1a1a;
+   font-size: 24px;
+   font-weight: bold;
+}
+.suc-two{
+margin-top: 55px;
+  color: #4c4c4c;
+  font-size: 14px;
+}
+.suc-two em{
+	color: green;
+}
+.suc-two span{
+ margin-right: 20px;
+}
+
+/*///////////////////会员升级////////////////////////////*/
+
+
+.cak_upgrade_shop{
+	height: 96px;
+	background-color: #fef6ed;
+	padding-top: 20px;
+}
+.cak_upgrade_l{
+	color: #666666;
+	font-size: 14px;
+	margin-left: 33px;
+
+}
+/*白色背景*/
+.cak_whites{
+	    background-color: #fff;
+}
+.cak_upgrade_r {
+  margin-left: 39px;
+}
+.cak_upgrade_r a{
+    display: inline-block;
+    width: 102px;
+    height: 35px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 35px;
+    color: #666666;
+    margin-right: 24px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+.cak_upgrade_r a:hover{
+	font-weight: bold;
+	color: #ffffff;
+	font-weight: bold;
+	background-color: #f83131;
+	border: none;
+}
+/*////////////绿色按钮//////////////////////*/
+.cak_upgrade_green {
+  margin-left: 39px;
+}
+
+.cak_upgrade_green a{
+    display: inline-block;
+    width: 102px;
+    height: 35px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 35px;
+    color: #666666;
+    margin-right: 24px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+.cak_upgrade_green a:hover{
+	font-weight: bold;
+	color: #26c08a;
+	font-weight: bold;
+	border-color: #26c08a;
+	/*background-color: #f83131;*/
+}
+
+.cak_upgrade_list_title{
+	border: 1px solid #e6e6e6;
+	height: 40px;
+	margin-top: 20px;
+	line-height: 40px;
+	border-bottom: none;
+}
+.cak_upgrade_list_title span{
+	margin-left: 15px;
+	color: #4c4c4c;
+	font-size: 16px;
+}
+.cak_upgrade_list_menu{
+	border: 1px solid #e6e6e6;
+	height: 40px;
+	border-bottom: none;
+	background-color: #f5f5f5;
+}
+.cak_upgrade_list_menu dt{
+	float: left;
+	height: 40px;
+	width: 290px;
+	line-height: 40px;
+	/*text-align: center;*/
+	color: #808080;
+	font-size: 14px;
+	padding-left: 95px;
+}
+.cak_upgrade_list_menu dd{
+	float: left;
+	height: 40px;
+	width: 160px;
+	color: #808080;
+	font-size: 14px;
+	text-align: center;
+	line-height: 40px;
+}
+.cak_upgrade_list_content dt{
+	float: left;
+	width: 396px;
+	color: #808080;
+	font-size: 14px;
+	height: 138px;
+	/*line-height: 138px;*/
+}
+.cak_upgrade_list_content dd{
+	float: left;
+	width: 160px;
+    padding-top: 50px;
+	color: #999999;
+	height: 88px;
+	font-size: 14px;
+	text-align: center;
+	font-size: 12px;
+}
+.cak_upgrade_list_content dt img{
+	vertical-align: middle;
+	margin-left: 36px;
+	margin-right: 28px;
+	float: left;
+	margin-top: 20px;
+
+}
+.cak_upgrade_list_content dt span{
+	display: block;
+	line-height: 138px;
+}
+.cak_upgrade_list_content{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border: 1px solid #e6e6e6;
+	border-bottom: none;
+}
+.cak_upgrade_sp {
+	border:1px solid #e6e6e6;
+	border-bottom: none;
+	border-top: none;
+}
+.cak_upgrade_list_footer{
+	border: 1px solid #e6e6e6;
+	height: 76px;
+}
+.cak_upgrade_list_footer span{
+ font-size: 14px;
+ color: #4c4c4c;
+ float: right;
+ margin-top: 40px;
+ margin-right: 44px;
+}
+.cak_upgrade_list_footer em{
+	font-size: 18px;
+	color: #ed601b;
+}
+.cak_upgrade_list{
+	margin-bottom: 445px;
+}
+
+
+/*///////////////////我的钱包////////////////////////*/
+.cak_wallet-title{
+	border: 1px solid #e6e6e6;
+	background-color: #f0f0f0;
+}
+.cak_wallet-title a{
+	display: inline-block;
+	width: 98px;
+	height: 46px;
+	line-height: 46px;
+	color: #737373;
+	font-size: 18px;
+	text-align: center;
+}
+.cak_wallet-title a:hover{
+	background-color: #ffffff;
+}
+.cak_wallet{
+	border: 1px solid #e6e6e6;
+	margin-bottom: 380px;
+}
+
+  .cak_wallet-content{
+  	width: 290px;
+  	border: 1px solid #e6e6e6;
+  	height: 155px;
+  	margin: 35px  auto 30px;
+  	background-color: #faf8f4;
+  }
+
+   .cak_wallet-content img{
+       float: left;
+       margin-top: 44px;
+       margin-left: 38px;
+   }
+   .cak_wallet-content dl{
+   	float: left;
+   	margin-top: 57px;
+   	margin-left: 30px;
+   }
+    .cak_wallet-content dl dt{
+         color: #999999;
+     }
+     .cak_wallet-content dl dd{
+         color: #0d0d0d;
+         margin-top: 10px;
+         font-weight: bold;
+     }
+     .cak_wallet_word{
+     	width: 230px;
+     	height: 48px;
+     	border: 1px solid #e6e6e6;
+     	margin: 0px auto;
+     	display: block;
+     	padding-left: 60px;
+     	background: url("../images/wallet.jpg") 18px center no-repeat;
+     }
+     .cak_recharge_wallet{
+     	width: 89px;
+     	height: 35px;
+     	text-align: center;
+     	color: #fff;
+     	line-height: 35px;
+     	font-weight: bold;
+     	margin: 62px auto 82px;
+     	display: block;
+     	background: url("../images/recharge.jpg") 0 0 no-repeat;
+     }
+      /*//////////////////////我的账单/////////////////////////////////////////*/
+
+      .cak_my_bill{
+      	width: 536px;      	
+      	margin-top: 26px;
+      	margin-left: 20px;
+      	margin-bottom: 130px;
+      	border-left: 1px dashed #6ce0b7;
+      }
+      .cak_my_bill_list_1 dt{
+      	height: 28px;
+      	padding-left: 15px;
+      	line-height: 28px;
+      	margin-left: -6px;
+      	background: url("../images/snow.png") 0px center no-repeat;
+      }
+      .cak_my_bill_list_1 dd{
+      	height: 90px;
+      	margin-top: 26px;
+      	margin-left: -3px;
+      	background: url("../images/point.png") 0px center no-repeat;
+      }
+      .cak_my_bill_list_1 dd span {
+          display: block;
+          padding-top: 1px;
+          width: 476px;
+          height: 88px;
+          margin-left: 33px;
+          background: url("../images/my_bill_bg.jpg") 0 0 no-repeat;
+      }
+      .bill_1{
+      	font-size: 16px;
+      	color: #4c4c4c;
+      	display: block;
+      	margin-left: 20px;
+      	margin-top: 12px;
+      }
+      .bill_1 var{
+      	float: left;
+      	font-style: normal;
+      }
+      .bill_1 em{
+      	float: right;
+      	margin-right: 36px;
+
+      }
+      .bill_2{
+      	margin-top: 20px;
+      	margin-left: 20px;
+        display: block;
+        color: #666666;
+        font-size: 14px;
+      }
+
+     /*///////////////////////意见反馈////////////////////////////////*/
+     .cak_feedback_content{
+     	border-top: 1px solid #e6e6e6;
+     	margin-bottom: 500px;
+
+     }
+     .cak_feed{
+     	width: 620px;
+	height: 250px;
+	margin-top: 20px;
+	background-color: #f5f5f5;
+	border: 1px solid #e6e6e6;
+	overflow-y:visible 
+     }
+     .cak_feedback_up{
+     	width: 89px;
+     	height: 35px;
+     	text-align: center;
+     	color: #fff;
+     	line-height: 35px;
+     	font-weight: bold;
+     	margin-top: 27px;
+     	margin-left: 500px;
+     	display: block;
+     	background: url("../images/recharge.jpg") 0 0 no-repeat;
+     }
+
+
+     /*////////////////////帮助中心///////////////////////////*/
+
+      .cak_help_content{
+     	border-top: 1px solid #e6e6e6;
+     	margin-bottom: 475px;
+     }
+     .cak_help_main{
+	  border: 1px solid #e6e6e6;
+	  margin-top: 21px;
+	  padding-top: 10px;
+	  padding-bottom: 68px;
+	 
+     }
+     .cak_help_main_lf{
+     	 float: left;
+     }
+     .cak_help_content dl{
+            width: 305px;
+            margin-left: 16px;
+     }
+     .cak_help_main_list2{
+               margin-top: 45px;
+     }
+      .cak_help_main_list1{
+               margin-top: 24px;
+     }
+      .cak_help_content dl dt{
+            color: #1a1a1a;
+            font-size: 16px;
+            background: url("../images/list.jpg") 0 center no-repeat;
+            padding-left: 18px;
+     }
+       .cak_help_content dl dd{
+            color: #4c4c4c;
+            font-size: 14px;
+            padding-left: 18px;
+     }
+     .cak_help_main span{
+           color: #808080;
+           font-size: 16px;
+           padding-left: 15px;
+     }
+     .cak_help_main_rg{
+     	float: left;
+     	font-size: 16px;
+     	color: #a5a5a5;
+     	text-align: center;
+     	margin-top: 28px;
+     	margin-left: 288px;
+     }
+   
+     .cak_help_ph{
+     	font-weight: bold;
+     	font-size: 18px;
+     }
+     .cak_help_phone img{
+          vertical-align: middle;
+          margin-left: 8px;
+     }
+     .cak_help_main_rg p{
+     	margin-top: 18px;
+     }
+     .cak_help_phone {
+     	margin: 30px  auto 0px ;
+     	display: block;
+     	width: 118px;
+     	height: 35px;
+     	line-height: 35px;
+     	font-size: 16px;
+     	font-weight: bold;
+     	color: #ffffff;
+     	text-align: center;
+     	background: url("../images/help_btn.jpg") 0 0 no-repeat;
+     }
+
+     /*//////////////////////////我的收藏////////////////////////////////*/
+     .cak_collection_list1{
+     	border: 1px solid #e6e6e6;
+     	border-bottom: none;
+     	height: 48px;
+     }
+     .cak_collection_list1 dt{
+     	float: left;
+     	line-height: 48px;
+
+     }
+     .cak_collection_list2{
+
+     	height: 138px;
+     }
+     .cak_collection_list2 dt{
+        float: left;
+        height: 138px;
+
+     }
+     .cak_list_fist_1{
+     	width: 180px;
+     }
+     .cak_list_fist_2{
+     	width: 290px;
+     	color: #666666;
+     }
+     .cak_list_fist_3{
+     	width: 220px;
+     	text-align: center;
+     	color: #666666;
+     }
+     .cak_list_fist_4{
+     	width: 290px;
+     	text-align: center;
+     	color: #666666;
+     }
+
+     .cak_list_l{
+     	width: 180px;
+     	/*line-height: 138px;*/
+     }
+     .cak_list_2{
+     	width: 290px;
+     	font: 14px;
+     	color: #4c4c4c;
+     }
+     .cak_list_3{
+     	width: 220px;
+     	color: #ed601b;
+     	line-height: 138px;
+     	text-align: center;
+     }
+     .cak_list_4{
+     	width: 290px;
+     	font-size: 12px;
+     	color: #4c4c4c;
+     	text-align: center;
+     	line-height: 138px;
+     }
+     .cak_list_l img{
+        margin-top: 20px;
+        margin-left: 24px;
+     	/*border: 1px solid red;vertical-align: middle;*/
+     	
+     }
+     .cak_list_fist_1 input{
+     	width: 16px;
+     	height: 16px;
+     	border-radius: 8px;
+     	margin-left: 14px;
+     	margin-right: 20px;
+         vertical-align: middle;
+     }
+     .cak_list_l input{
+     	width: 16px;
+     	height: 16px;
+     	float: left;
+     	border-radius: 8px;
+     	margin-left: 14px;
+     	margin-top: 68px;
+         vertical-align: middle;
+     }
+     .cak_list_fist_1 a{
+     	color: #5d5d5d;
+     	font-size: 12px;
+     	line-height: 48px;
+     	height: 48px;
+     	margin-right: 5px;
+     	margin-left: 5px;
+
+     }
+     .cak_list_fist_1 a:hover{
+     	color: #ca4444;
+     }
+     .cak_list_2 p{
+     	margin-top: 56px;
+     	font-size: 12px;
+     	color: #4c4c4c;
+     }
+     /*/////////////////我的订单///////////////////////*/
+
+.cak_upgrade_list_content dt p{
+	margin-top: 50px;
+	display: block;
+}
+.cak_my_order{
+	margin-top: 20px;
+	margin-bottom: 40px;
+
+}
+.cak_my_order ul li h2{
+	font-size: 18px;
+	color: #737373;
+}
+.cak_my_order ul{
+	border: 1px solid #e6e6e6;
+	height: 46px;
+	line-height: 46px;
+	border-bottom: none;
+}
+.cak_my_order dl{
+	border: 1px solid #e6e6e6;
+	padding-bottom: 39px;
+}
+.cak_my_order dl dt label{
+	color: #4c4c4c;
+	font-weight: bold;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.cak_my_order dl dt{
+
+	color: #737373;
+	font-size: 14px;
+	height: 46px;
+	line-height: 46px;
+}
+.cak_my_order dl dd label{
+	color: #4c4c4c;
+	font-weight: bold;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.cak_my_order dl dd input{
+	display: block;
+	margin-left: 99px;
+	margin-top: 10px;
+	width: 660px;
+	height: 60px;
+	border: 1px solid #e5e5e5;
+}
+.cak_my_order_list{
+	margin-bottom: 100px;
+}
+/*/////////////////我的订单待付款//////////////////////*/
+.cak_my_order_common dl dt{
+	float: left;
+	margin-right: 72px;
+}
+.cak_my_order_common dl {
+	border-bottom: 1px solid #e6e6e6;
+}
+.cak_my_order_common dl dd{
+  float: left;
+  width: 108px;
+  height: 46px;
+  line-height: 46px;
+  text-align: center;
+  color: #4c4c4c;
+  font-size: 18px;
+  margin-right: 50px;
+}
+.cak_my_order_common dl dd a{
+	color: #4c4c4c;
+}
+.cak_my_order_common dl dd a:hover{
+	color: #ffa130;
+	display: inline-block;
+	padding-top: 2px;
+	border-bottom: 3px solid #ffa130;
+}
+
+
+.cak_my_order_menu dl{
+	border: 1px solid #e5e5e5;
+	background-color: #f5f5f5;
+	font-size: 14px;
+	color: #808080;
+	margin-top: 33px;
+}
+.cak_my_order_menu dl dd{
+	float: left;
+	width: 160px;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+}
+
+.cak_my_order_menu dl dt{
+	float: left; 
+	width: 293px;
+	
+	height: 40px;
+	line-height: 40px;
+	padding-left: 40px;
+	
+}
+
+
+.cak_my_order_page_l{
+	display: inline-block;
+	border: 1px solid #cccccc;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
+.cak_my_order_page_r{
+	display: inline-block;
+	border: 1px solid #cccccc;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+
+
+}
+.cak_my_order_page_m{
+	display: inline-block;
+	border: 1px solid #cccccc;
+	width: 42px;
+	height: 20px;
+	text-align: center;
+	margin: 0px 10px;
+
+
+}
+.cak_my_order_page{
+	text-align: right;
+	margin: 14px auto;
+}
+.cak_my_order_page a{
+	color: #737373;
+
+}
+
+.cak_my_order_page a:hover{
+	color: #fb8329;
+}
+
+.cak_my_order_main_page{
+	margin-bottom: 260px;
+}
+     .cak_my_order_buy  dl dt a{
+        display: inline-block;
+        background: url("../images/delete.jpg") 0 center no-repeat;
+        width: 17px;
+        height: 42px;
+        float: right;
+        margin-right: 66px;
+     }
+     .cak_my_order_buy{
+     	margin-bottom: 15px;
+     }
+
+     .cak_my_order_buy dl{
+     	border: 1px solid #e6e6e6;
+     	padding-bottom: 7px;
+     }
+     .cak_my_order_buy dl dt{
+     	height: 42px;
+     	background-color: #f5f5f5;
+     	line-height: 42px;
+     	border-bottom:1px solid #e6e6e6;
+     }
+      .cak_my_order_buy dl dt span{
+      	margin-left: 18px;
+      	color: #666666;
+      	font-size: 14px;
+      	float: left;
+      }
+      .cak_my_order_buy dl dd{
+      	width: 159px;
+      	/*border: 1px solid red;*/
+      	float: left;
+      	height: 90px;
+      	text-align: center;
+       	padding-top: 60px;
+       	margin: 7px 3px 0px 3px;
+      }
+      
+       .cak_my_order_buy dl dd img{
+       	 vertical-align: middle;
+       }
+       .cak_my_order_buy dl .icon_1{
+       	background: url("../images/foot.jpg") 20px 20px no-repeat;
+       }
+       .cak_my_order_buy dl .icon_2{
+       text-align: left;
+       }
+       .money{
+        	 color: #ed601b;
+        }
+        .payment{
+        	color: #999999;
+       }
+        .cak_my_order_buy dl .icon_6 .cak_prompt_payment{
+        	color: #666666;
+        	display: block;
+        	width: 100px;
+        	height: 23px;
+        	margin: 0 auto;
+        	padding-top: 9px;
+        	background-color: #f5f5f5;
+        	border: 1px solid #e6e6e6;  
+        	margin-bottom: 10px; 	
+        }
+         .cak_my_order_buy dl .icon_6 .cak_prompt_payment:hover{
+        	color: #f83131;
+        	background-color: white;
+        	border: 1px solid #f83131;   	
+        }
+         .cancellation_of_order{
+         	color: #737373;
+         	margin-top: 10px;
+         }
+          .cancellation_of_order:hover{
+         	color: #f83131;
+         	margin-top: 10px;
+         }
+         .icon_5{
+         	border-right: 1px solid #e6e6e6;
+         	border-left: 1px solid #e6e6e6;
+         	color: #999999;
+         }
+         .icon_3{
+
+         	color: #999999;
+         }
+         .icon_7{
+         	color: #999999;
+         }
+         .icon_8 a{
+         	
+         		color: #666666;
+        	display: block;
+        	width: 100px;
+        	height: 23px;
+        	margin: 0 auto;
+        	padding-top: 9px;
+        	background-color: #f5f5f5;
+        	border: 1px solid #e6e6e6;  
+        	margin-bottom: 10px; 
+         }
+         .icon_8 a:hover{
+         	border:1px solid #26c08a;
+         	background-color: #ffffff;
+         	
+         	color: #26c08a;
+         }
+
+
+         .cak_evaluate{
+           height: 340px;
+           border: 1px solid #e6e6e6;
+           padding-top: 45px;
+           margin-bottom: 460px;
+         }
+          .cak_evaluate_left{
+          	float: left;
+            width: 45%;
+            margin-left: 25px;
+          }
+         .cak_evaluate_left img{
+         	float: left;
+         	border: 1px solid #e6e6e6;
+         	margin-right: 38px;
+         }
+          .cak_evaluate_left p{
+         	line-height: 33px;
+         }
+         .sp_1{
+         	font-size: 16px;
+         	color: #333333;
+
+         }
+         .sp_2{
+         	font-size: 14px;
+         	color: #757575;
+         }
+         .sp_3{
+         	font-size: 22px;
+         	color: #de0000;
+         }
+         .cak_evaluate_right {
+           float: right;
+           width: 40%;
+
+         }
+         .cak_evaluate_right dl{
+         	height: 30px;
+         	line-height: 30px;
+         }
+         .cak_evaluate_right dl dt{
+         	display: inline-block;
+         	height: 30px;
+         	float: left;
+         	font-size: 16px;
+         	margin-right: 260px;
+         	margin-left: 12px;
+         }
+         .cak_evaluate_right dl dd a{
+         	display: inline-block;
+         	width: 25px;
+         	height: 30px;
+            text-align: center;
+         	float: left;
+         	background: url(../images/xing-b.jpg) center center no-repeat;
+         }
+         .cak_evaluate_right dl dd a:hover{
+         
+         	background: url(../images/xing.jpg) center center no-repeat;
+         }
+         .cak_world_gd{
+         	width: 428px;
+         	height: 140px;
+         	border: 1px solid #dbdbdb;
+         	padding-left: 5px;
+         }
+         .cak_said{
+         	display: block;
+         	width: 100px;
+         	height: 35px;
+         	background-color: #ffa130;
+         	color: #fff;
+            margin-top: 22px;
+         	line-height: 35px;
+         	text-align: center;
+         	font-weight: bold;
+            margin-left: 320px;
+         }
+
+    /*////////////////////////弹出框//////////////////////////*/
+
+         #popBox {
+				  display: none;
+				  position: fixed;
+				  left: 0;
+				  top: 0;
+				  width: 100%;
+				  height: 100%;
+				  background-color: rgba(0, 0, 0, 0.3);
+				}
+				#popBox .login-box {
+				  position: absolute;
+				  left: 28%;
+				  top: 25%;
+				 /* margin-top: 52px;
+				  margin-left: -245px;*/
+				  width: 700px;
+				  height: 400px;
+				  background-color: #fff;
+				  border: 1px solid #ccc;
+				}
+				.cak_return_r{
+					margin-left: 455px;
+				}
+				.login-box ul{
+					background-color: #f2f2f2;
+					padding-left: 24px;
+				}
+				.login-box ul li{
+                  display: inline-block;
+                  width: 100px;
+                  height: 36px;
+                  line-height: 36px;
+                  float: left;
+                  font-size: 14px;
+				}
+				.cak_return{
+					display: inline-block;
+					width: 100px;
+					height: 36px;
+					text-align: center;
+					background:url(../images/return.jpg) center right no-repeat;
+				}
+				.cak_logo_list{
+                  padding-top: 20px;
+                  margin-left: 25px;
+				}
+				.cak_logo_list label{
+                    
+                    width: 80px;
+                    display: inline-block;
+                    font-size: 14px;
+                    color: #333333;      
+				}
+				.cak_logo_list em{
+                    
+                    color: #b00100;      
+				}
+				.cak_logo_list dt select{
+                       width: 166px;
+                       height: 32px;
+                       border: 1px solid #d2d2d2;
+                       padding-left: 12px;
+				}
+				.cak_logo_list dt input{
+                       width: 153px;
+                       height: 32px;
+                       border: 1px solid #d2d2d2;
+                       padding-left: 12px;
+				}
+				.cak_logo_list dt {
+					/*border: 1px solid red;*/
+				}
+				.cak_logo_list dd {
+					/*border: 1px solid red;*/
+					margin-top: 14px;
+					margin-bottom: 12px;
+				}
+				.cak_explain{
+					width: 405px;
+					height: 82px;
+					border: 1px solid #d2d2d2;
+					padding-top: 10px;
+					margin-left: 80px;
+					margin-top: -32px;				
+				}
+				.cak_update{
+				   display: inline-block;
+				   width: 154px;
+				   height: 32px;
+				   line-height: 32px;
+				   color: #333333;
+				   font-size: 12px;
+				   text-align: center;
+				   background-color: #f1f1f1;
+				}
+				.cak_chosse{
+					display: inline-block;
+					margin-left: 337px;
+				}
+				.cak_money_gold{
+					margin-top: 42px;
+					margin-bottom: 14px;
+				}
+				.cak_update_btn{
+					display: block;
+					width: 80px;
+					height: 35px;
+					background-color: #f39524;
+					font-size: 14px;
+					color: #ffffff;
+					text-align: center;
+					font-weight: bold;
+					line-height: 35px;
+					margin-left: 80px;
+					border-radius: 4px;
+				}
+				.cak_yq{
+					color: #666666;
+				}
+/*///////////////////收货地址/////////////////////////*/
+.cak_address{
+	border-top: 1px solid red;
+	padding-top: 20px;
+}
+
+.cak_address_lf{
+	border: 2px solid #f7f7f7;
+	width: 470px;
+	height: 95px;
+	float: left;
+	margin-right: 24px;
+	padding-top: 15px;
+	background-color: #f7f7f7;
+	position: relative;
+}
+.cak_address_lf dt,.cak_address_rg dt{
+  height: 30px;
+  line-height: 36px;
+  padding-left: 20px;
+  color: #333333;
+}
+.cak_address_rg{
+	border: 2px solid #e5e5e5;
+	width: 470px;
+	height: 95px;
+	float: left;
+	padding-top: 15px;
+	background-color: #f7f7f7;
+	position: relative;
+}
+.cak_address_lf dd,.cak_address_rg dd{
+	text-align: right;
+	padding-right: 15px;
+	color: #999999;
+}
+.cak_address_lf dd a,.cak_address_rg dd a{
+	color: #999999;
+	margin:  auto 5px;
+}
+.cak_address_lf dt a{
+	display:block;
+	width: 32px;
+	height: 30px;
+	background: url(../images/chos.jpg)  0px -39px no-repeat;
+	position: absolute;
+	top:0px;
+	right: 0px;
+}
+.cak_address_rg dt a{
+    display:block;	
+	width: 32px;
+	height: 30px;
+	background: url(../images/chos.jpg)  0px -39px no-repeat;
+	position: absolute;
+	top:0px;
+	right: 0px;
+}
+.cak_address_rg:hover,.cak_address_lf:hover{
+	border-color: red;
+}
+.cak_address_rg dt a:hover,.cak_address_lf dt a:hover{
+	background: url(../images/chos.jpg)  0px 0px no-repeat;
+
+}
+
+
